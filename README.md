@@ -1,4 +1,4 @@
-# Blueme-backend-framework
+# BlueMe-backend-framework
 It's my simple PHP framework made from scratch.
 
 By doing this i could understand how the MVC frameworks do their job
